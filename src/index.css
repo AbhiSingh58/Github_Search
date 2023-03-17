@@ -1,0 +1,37 @@
+*{
+  margin:0%;
+  padding: 0%;
+  box-sizing: border-box;
+  background-color: rgb(10, 10, 10);
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+button:hover{
+  cursor: pointer;
+  
+
+}
+.about{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+}
+.name{
+  font-size: larger;
+
+}
+.loca{
+  margin-top: 0.9em;
+}
+.bio{
+  margin-bottom: 0.9em;
+  margin-top: 0.9em;
+
+
+}
